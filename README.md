@@ -2,6 +2,7 @@ This PHP script forces files to be downloaded instead of being played. This is e
 
 How to use:
 
-<pre>
+```
 <a href="./dl.php?file=image.png">Download</a>
 </pre>
+```
